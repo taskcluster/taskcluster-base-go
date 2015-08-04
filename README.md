@@ -34,8 +34,13 @@ func main() {
 }
 ```
 
+See [formal definitions](http://docs.taskcluster.net/presentations/scopes/#/definitions)
+for more information about scope satisfaction.
+
 ## Contributing
-Contributions are welcome. Please fork, and issue a Pull Request back with an explanation of your changes.
+Contributions are welcome. Please fork, and issue a Pull Request back with an
+explanation of your changes.
 
 ## Travis
-Travis build [success/failure messages](http://travis-ci.org/taskcluster/taskcluster-base-go) are posted to irc channel #tcclient-go on irc.mozilla.org:6697.
+Travis build [success/failure messages](http://travis-ci.org/taskcluster/taskcluster-base-go)
+are posted to irc channel #tcclient-go on irc.mozilla.org:6697.
