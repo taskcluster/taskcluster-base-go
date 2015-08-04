@@ -2,6 +2,7 @@
 <img hspace="20" align="left" src="https://tools.taskcluster.net/lib/assets/taskcluster-120.png" />
 [![Build Status](https://secure.travis-ci.org/taskcluster/taskcluster-base-go.png)](http://travis-ci.org/taskcluster/taskcluster-base-go)
 [![GoDoc](https://godoc.org/github.com/taskcluster/taskcluster-base-go?status.png)](https://godoc.org/github.com/taskcluster/taskcluster-base-go)
+[![Coverage Status](https://coveralls.io/repos/taskcluster/taskcluster-base-go/badge.svg?branch=master&service=github)](https://coveralls.io/github/taskcluster/taskcluster-base-go?branch=master)
 
 A go (golang) port of taskcluster-base utility functions.
 
